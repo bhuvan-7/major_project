@@ -37,15 +37,6 @@ cd face-attendance-system
 pip install -r requirements.txt
 ```
 
-Make sure you have:
-
-Python 3.7+
-OpenCV
-Flask
-reportlib
-requests
-numpy, etc.
-
 ### 3. Run Application
 ```bash
 python app.py
@@ -53,8 +44,9 @@ python app.py
 
 It will automatically open in your browser:
 
-📸 Webcam Page: http://127.0.0.1:5000/
-📊 Dashboard: http://127.0.0.1:5000/dashboard
+-📸 Webcam Page: http://127.0.0.1:5000/
+
+-📊 Dashboard: http://127.0.0.1:5000/dashboard
 
 ### 4.✨ Future Improvements
 
