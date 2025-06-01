@@ -59,7 +59,11 @@ It will automatically open in your browser:
 ### 4.✨ Future Improvements
 
 -Student registration via UI
+
 -Face recognition with liveness detection
+
 -Admin login and user roles
+
 -Enhanced UI with Bootstrap or Tailwind
+
 -QR or RFID backup attendance
