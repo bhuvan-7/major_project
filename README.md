@@ -31,3 +31,35 @@ A Flask-based web application that uses face recognition for real-time attendanc
 git clone https://github.com/bhuvan-7/major_project.git
 cd face-attendance-system
 ```
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Make sure you have:
+
+Python 3.7+
+OpenCV
+Flask
+reportlib
+requests
+numpy, etc.
+
+### 3. Run Application
+```bash
+python app.py
+```
+
+It will automatically open in your browser:
+
+📸 Webcam Page: http://127.0.0.1:5000/
+📊 Dashboard: http://127.0.0.1:5000/dashboard
+
+### 4.✨ Future Improvements
+
+-Student registration via UI
+-Face recognition with liveness detection
+-Admin login and user roles
+-Enhanced UI with Bootstrap or Tailwind
+-QR or RFID backup attendance
