@@ -28,6 +28,6 @@ A Flask-based web application that uses face recognition for real-time attendanc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/face-attendance-system.git
+git clone https://github.com/bhuvan-7/major_project.git
 cd face-attendance-system
 ```
