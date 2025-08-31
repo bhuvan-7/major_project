@@ -157,3 +157,11 @@ Optional: Add admin authentication to restrict dashboard access.
 ### 9. 📄 License
 This project is licensed for educational and demonstration purposes only. For commercial usage, please contact the author.
 
+---
+
+### 10. Acknowledgements  
+
+We would like to sincerely thank our project guide **Dr. Hemanth S R** for his valuable guidance, continuous support, and encouragement throughout the development of this project.  
+We also extend our gratitude to our project co-ordinator **Dr. Victor A I** for his coordination, timely advice, and motivation that greatly contributed to this work.  
+
+
